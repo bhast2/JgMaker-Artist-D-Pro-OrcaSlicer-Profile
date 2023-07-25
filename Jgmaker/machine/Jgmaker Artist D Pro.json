@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "Jgmaker Artist D Pro",
+    "model_id": "Jgmaker-Artist-D-Pro",
+    "nozzle_diameter": "0.4",
+    "machine_tech": "FFF",
+    "family": "Jgmaker",
+    "bed_model": "jgmaker_artisdpro_buildplate_model.stl",
+    "bed_texture": "jgmaker_artistdpro_buildplate_texture.png",
+    "hotend_model": "",
+	"default_materials": "Jgmaker Generic ABS;Jgmaker Generic PETG;Jgmaker Generic PLA"
+}

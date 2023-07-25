@@ -1,0 +1,71 @@
+{
+    "name": "Jgmaker",
+    "url": "",
+    "version": "01.00.00.00",
+    "force_update": "0",
+    "description": "Jgmaker configurations",
+    "machine_model_list": [
+        {
+            "name": "Jgmaker Artist D Pro",
+            "sub_path": "machine/Jgmaker Artist D Pro.json"
+        }
+    ],
+    "process_list": [
+        {
+            "name": "fdm_process_common",
+            "sub_path": "process/fdm_process_common.json"
+        },
+  {
+            "name": "fdm_process_jgmaker_common",
+            "sub_path": "process/fdm_process_jgmaker_common.json"
+        },
+        {
+            "name": "0.16mm Optimal @Jgmaker Artist D Pro",
+            "sub_path": "process/0.16mm Optimal @Jgmaker Artist D Pro.json"
+        },
+        {
+            "name": "0.20mm Standard @Jgmaker Artist D Pro",
+            "sub_path": "process/0.20mm Standard @Jgmaker Artist D Pro.json"
+        }
+    ],
+    "filament_list": [
+        {
+            "name": "fdm_filament_common",
+            "sub_path": "filament/fdm_filament_common.json"
+        },
+        {
+            "name": "fdm_filament_abs",
+            "sub_path": "filament/fdm_filament_abs.json"
+        },
+        {
+            "name": "fdm_filament_pet",
+            "sub_path": "filament/fdm_filament_pet.json"
+        },
+        {
+            "name": "fdm_filament_pla",
+            "sub_path": "filament/fdm_filament_pla.json"
+        },
+        {
+            "name": "Jgmaker Generic ABS",
+            "sub_path": "filament/Jgmaker Generic ABS.json"
+        },
+        {
+            "name": "Jgmaker Generic PETG",
+            "sub_path": "filament/Jgmaker Generic PETG.json"
+        },
+        {
+            "name": "Jgmaker Generic PLA",
+            "sub_path": "filament/Jgmaker Generic PLA.json"
+        }
+    ],
+    "machine_list": [
+        {
+            "name": "fdm_machine_common",
+            "sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "Jgmaker Artist D Pro 0.4 nozzle",
+            "sub_path": "machine/Jgmaker Artist D Pro 0.4 nozzle.json"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "filament",
+    "filament_id": "JGB99",
+    "setting_id": "JGSA04",
+    "name": "Jgmaker Generic ABS",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_filament_abs",
+    "filament_flow_ratio": [
+        "0.926"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+	"compatible_printers": [
+		"Jgmaker Artist D Pro 0.4 nozzle"
+	]
+}
